@@ -688,7 +688,7 @@ Hole 'x' has the inferred type
 
 ## Language extensions
 
-There are some additional keywords that are defined in language extensions for example `applicative do notation`:
+There are some additional keywords that are defined in language extensions for example applicative do notation introduces the `ado` keyword:
 
 ```purescript
 user = ado
